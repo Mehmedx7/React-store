@@ -1,11 +1,2 @@
 node_modules
 
-# Ignore all files in the root directory except the build folder
-/*
-!.gitignore
-!/build/
-
-# Ignore all files in the build folder except what you want to push
-!/build/ # Include the build folder itself
-!/build/** # Include all subdirectories and files within the build folder
-
