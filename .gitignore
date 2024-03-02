@@ -1,2 +1,5 @@
-node_modules
+# Ignore all files
+*
 
+# Except the build directory
+!build/
